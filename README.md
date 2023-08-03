@@ -1,6 +1,6 @@
 ### Look ma! I'm in the MainFrame!
 
-  <img src="https://external-preview.redd.it/zHi8fGX0BX3Fxoh__Xu3KIqrAjVM41wN86VKtsBqVFM.gif?format=mp4&s=70b8735024ff46e6b3e6bc0507e0b828ce443a2b" width="100"/>
+  <img src="https://tenor.com/3KyF.gif" width="100"/>
 
 👨🏽‍💻 ## About Me:
 I am a Full Stack Developer
