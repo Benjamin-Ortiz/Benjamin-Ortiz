@@ -1,15 +1,16 @@
 ### Look ma! I'm in the MainFrame!
 
+</div>
   <img src="https://tenor.com/3KyF.gif" width="100"/>
+<div id="">
+
 
 👨🏽‍💻 ## About Me:
 I am a Full Stack Developer
 
 <div id="header" align="center">
 
-</div>
 
-<div id="">
   
 </div>
 
