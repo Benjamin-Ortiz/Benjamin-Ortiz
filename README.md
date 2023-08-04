@@ -1,7 +1,8 @@
 ### Look ma! I'm in the MainFrame!
 
-<div class="tenor-gif-embed" data-postid="13247943" data-share-method="host" data-aspect-ratio="1.78295" data-width="100%"><a href="https://tenor.com/view/hackerman-gif-13247943">Hackerman GIF</a>from <a href="https://tenor.com/search/hackerman-gifs">Hackerman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 👨🏽‍💻 ## About Me:
 I am a Full Stack Developer
