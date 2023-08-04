@@ -19,6 +19,11 @@ I am a Full Stack Developer
   
 </div>
 
+- 🔭 I’m currently working on my GaymeStop App.
+- 🌱 I’m learning Mobile App Deployment and Cloud Tech.
+- 💬 Ask me about all things JavaScript, or Backend.
+- 👯 I’m looking to collaborate on open source projects!
+- 💣 Fun fact: You Lost The Game
 - 📫 Let's chat: ortizbenjaminj@gmail.com
 
 
@@ -27,11 +32,11 @@ I am a Full Stack Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my GaymeStop App.
-- 🌱 I’m learning Mobile App Deployment and Cloud Tech
-- 👯 I’m looking to collaborate on ...
+
+
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 Let's chat: ortizbenjaminj@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
