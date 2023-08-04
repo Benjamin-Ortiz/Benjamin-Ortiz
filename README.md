@@ -2,11 +2,11 @@
 
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="400"/>
-   ## "I'm in" or whatever
+   "I'm in" and whatnot
 </div>
 
 
-👨🏽‍💻 ## About Me:
+## 👨🏽‍💻 About Me:
 I am a Full Stack Developer
 
 <div id="header" align="center">
