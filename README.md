@@ -1,7 +1,7 @@
 ### Look ma! I'm in the MainFrame!
 
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="300"/>
 </div>
 
 👨🏽‍💻 ## About Me:
