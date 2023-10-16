@@ -5,7 +5,11 @@
 
 
 ## 👨🏽‍💻 About Me:
-I am a Full Stack Developer
+Software Developer with a solid background in React/Redux, JavaScript, Python, and HTML/CSS.
+
+- Gamer
+- Nurse wild animals back to health #NurseJoyLifeChoseMe
+- Working with students in my community by being a "Hacker"
 
 <div id="header" align="center">
 
