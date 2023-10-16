@@ -5,11 +5,13 @@
 
 
 ## 👨🏽‍💻 About Me:
+I am a:
 Software Developer with a solid background in React/Redux, JavaScript, Python, and HTML/CSS.
 
-- Gamer
-- Nurse wild animals back to health #NurseJoyLifeChoseMe
-- Working with students in my community by being a "Hacker"
+- 🕹️ Gamer
+- 🐝 Nurse to injured wild bees and animals I cross paths with #NurseJoyLifeChoseMe.
+- 🧠 Educator for students in my community by being a "Hacker".
+- 🕴️ Whatever this emoji is.
 
 <div id="header" align="center">
 
@@ -26,7 +28,7 @@ Software Developer with a solid background in React/Redux, JavaScript, Python, a
 - 💬 Ask me about all things JavaScript, or Backend.
 - 👯 I’m looking to collaborate on open source projects!
 - 💣 Fun fact: You Lost The Game
-- 📫 Let's chat: ortizbenjaminj@gmail.com
+- 📫 Let's chat: OrtizBenjaminJ@gmail.com
 
 
 <!--
