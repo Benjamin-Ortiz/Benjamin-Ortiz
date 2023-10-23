@@ -10,7 +10,7 @@ Software Developer with a solid background in React/Redux, JavaScript, Python, a
 
 - 🕹️ Gamer
 - 🐝 Nurse to injured wild bees and animals I cross paths with #NurseJoyLifeChoseMe.
-- 🧠 Educator for students in my community by being a "Hacker".
+- 🧠 Educator for students in my community.
 - 🕴️ Whatever this emoji is.
 
 <div id="header" align="center">
