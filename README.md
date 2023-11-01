@@ -5,9 +5,9 @@
 
 
 ## 👨🏽‍💻 About Me:
-I am a:
-Software Developer with a solid background in React/Redux, JavaScript, Python, and HTML/CSS.
+Software Developer with React/Redux, JavaScript, Python, and HTML/CSS.
 
+# I am a:
 - 🕹️ Gamer
 - 🐝 Nurse to injured wild bees and animals I cross paths with #NurseJoyLifeChoseMe.
 - 🧠 Educator for students in my community.
