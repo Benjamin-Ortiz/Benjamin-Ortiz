@@ -5,9 +5,9 @@
 
 
 ## 👨🏽‍💻 About Me:
-Software Developer with React/Redux, JavaScript, Python, and HTML/CSS.
+<p> I am a <s>hacker</s> Software Developer with React/Redux, JavaScript, Python, and HTML/CSS.<p>
 
-### I am a:
+### I'm also:
 - 🕹️ Gamer
 - 🐝 Nurse to injured wild bees and animals I cross paths with #NurseJoyLifeChoseMe.
 - 🧠 Educator for students in my community.
@@ -25,9 +25,9 @@ Software Developer with React/Redux, JavaScript, Python, and HTML/CSS.
 
 - 🔭 I’m currently working on my GaymeStop App.
 - 🌱 I’m learning Mobile App Deployment and Cloud Tech.
-- 💬 Ask me about all things JavaScript, or Backend.
+- 💬 Ask me about all things JavaScript, Backend, or React!
 - 👯 I’m looking to collaborate on open source projects!
-- 💣 Fun fact: You Lost The Game
+- 💣 Fun fact: 83% of the Earth is in complete darkness all the time (Abyssal Zone) and home to creatures that can theoretically grow pretty much as large as you can imagine because the Square Cube Law (the thing that stops animals from being able to grow infinitely large because they'd collapse under their own weight), doesn't apply underwater.
 - 📫 Let's chat: OrtizBenjaminJ@gmail.com
 
 
