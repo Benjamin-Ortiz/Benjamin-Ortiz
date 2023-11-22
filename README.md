@@ -21,7 +21,7 @@
 
 <div id="showcase">
   
-</div>
+</div> 
 
 - 🔭 I’m currently working on my GaymeStop App.
 - 🌱 I’m learning Mobile App Deployment and Cloud Tech.
