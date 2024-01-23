@@ -5,7 +5,7 @@
 
 
 ## 👨🏽‍💻 About Me:
-<p> I am a <s>hacker</s> Software Engineer  with a heavy background in React / Redux, JavaScript, Python, and HTML/CSS.<p>
+<p> I am a <s>hacker</s> Software Engineer  with a heavy background in JavaScript, Python, React, Redux, MongoDB and HTML/CSS.<p>
 
 ### I'm also:
 - 🕹️ Gamer
