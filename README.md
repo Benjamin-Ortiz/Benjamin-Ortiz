@@ -8,7 +8,7 @@
 <p> I am a Software Engineer with a heavy background in JavaScript, Python, React, Redux, MongoDB and HTML/CSS.<p>
 
 ### I'm also:
-- 🛩️ Pilot
+- 🛩️  a Pilot
 - 🐝 Nurse to injured bees and wild animals I cross paths with.
 - 🧠 Educator for students in my community.
 - 🕴️ Whatever this emoji is.
