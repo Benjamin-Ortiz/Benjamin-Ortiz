@@ -8,8 +8,8 @@
 <p> I am a Software Engineer with a heavy background in JavaScript, Python, React, Redux, MongoDB and HTML/CSS.<p>
 
 ### I'm also:
-- 🕹️ Gamer
-- 🐝 Nurse to injured wild bees and animals I cross paths with #NurseJoyLifeChoseMe.
+- 🛩️ Pilot
+- 🐝 Nurse to injured bees and wild animals I cross paths with.
 - 🧠 Educator for students in my community.
 - 🕴️ Whatever this emoji is.
 
@@ -23,7 +23,7 @@
   
 </div> 
 
-- 🔭 I’m currently working on my GaymeStop App.
+- 🔭 I’m currently working on a fellowship project.
 - 🌱 I’m learning Mobile App Deployment and Cloud Storage.
 - 💬 Ask me about all things JavaScript, Backend, or React!
 - 👯 I’m looking forward to collaborating on open source projects!
