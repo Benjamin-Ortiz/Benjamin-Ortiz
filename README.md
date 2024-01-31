@@ -23,12 +23,12 @@
   
 </div> 
 
-- 🔭 I’m currently working on a fellowship project.
-- 🌱 I’m learning Mobile App Deployment and Cloud Storage.
+- 🔭 I’m currently working as lead on a fellowship project.
+- 🌱 I’m learning Mobile App Deployment, Cloud Storage, and React libraries.
 - 💬 Ask me about all things JavaScript, Backend, or React!
 - 👯 I’m looking forward to collaborating on open source projects!
 - 💣 Fun fact: 83% of the Earth is in complete darkness all the time (Abyssal Zone) and home to creatures that can theoretically grow pretty much as large as you can imagine because the Square Cube Law (the thing that stops animals from being able to grow infinitely large because they'd collapse under their own weight), doesn't apply underwater.
-- 📫 Let's chat: OrtizBenjaminJ@gmail.com
+- 📫 Reach Out: OrtizBenjaminJ@gmail.com
 
 
 <!--
