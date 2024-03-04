@@ -4,6 +4,7 @@
 </div>
 
 
+
 ## 👨🏽‍💻 About Me:
 <p> I am a Software Engineer with a heavy background in JavaScript, Python, React, Redux, MongoDB and HTML/CSS.<p>
 
