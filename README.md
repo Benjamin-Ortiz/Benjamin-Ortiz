@@ -13,6 +13,7 @@
 <p> I am a Software Engineer with a heavy background in JavaScript, Python, React, Redux, MongoDB and HTML/CSS.<p>
 
 ### I'm also :
+
 - 🛩️ A Pilot.
 - 
 - 🐝 Nurse to injured bees and all wild animals I find.
