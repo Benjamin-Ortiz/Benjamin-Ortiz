@@ -35,7 +35,13 @@
 - 💣 "Fun" fact: 83% of the Earth is in complete darkness all the time (Abyssal Zone) and home to creatures that can theoretically grow pretty much as large as you can imagine because the Square Cube Law (the thing that stops animals from being able to grow infinitely large because they'd collapse under their own weight), doesn't apply underwater.
 - 📫 Reach Out: OrtizBenjaminJ@gmail.com
 
+## My Development Analysis:
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2032%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.2%20million%20lines%20of%20code-blue)
 <!--
 **Benjamin-Ortiz/Benjamin-Ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
